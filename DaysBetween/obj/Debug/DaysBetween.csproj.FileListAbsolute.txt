@@ -1,0 +1,10 @@
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\bin\Debug\DaysBetween.exe.config
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\bin\Debug\DaysBetween.exe
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\bin\Debug\DaysBetween.pdb
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.csprojResolveAssemblyReference.cache
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.Form1.resources
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.Properties.Resources.resources
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.csproj.GenerateResource.Cache
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.csproj.CoreCompileInputs.cache
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.exe
+C:\Users\yfeng\source\repos\DaysBetween\DaysBetween\obj\Debug\DaysBetween.pdb
